@@ -102,7 +102,7 @@
   .footer {
     min-height: 80px;
     background-color: #1E1E1E;
-    margin-top: 40px;
+    margin-top: 40px; 
     display: flex;
     justify-content: space-between;
     color: white;
